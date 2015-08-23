@@ -10,13 +10,11 @@
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
 [Rr]eleases/
 x64/
 x86/
 build/
 bld/
-[Bb]in/
 [Oo]bj/
 
 # Roslyn cache directories
@@ -229,3 +227,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+DemoProject/bin/Release/DemoProject.exe.config
+DemoProject/bin/Release/DemoProject.vshost.exe
+DemoProject/bin/Release/DemoProject.vshost.exe.config
+DemoProject/bin/Release/DemoProject.vshost.exe.manifest
+DemoProject/bin/Release/UpdateWorker.xml
+DemoProject/bin/Release/DemoProject.xml
+UpdateWorker/bin/Release/UpdateWorker.xml

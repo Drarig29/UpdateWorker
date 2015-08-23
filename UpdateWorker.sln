@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UpdateWorker", "UpdateWorker\UpdateWorker.vbproj", "{6D2E3912-6FA9-48F3-B81A-7D9A0E18012F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DemoProject", "DemoProject\DemoProject.vbproj", "{57BC2B7E-3C58-4652-9952-7F11E0E59CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D2E3912-6FA9-48F3-B81A-7D9A0E18012F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2E3912-6FA9-48F3-B81A-7D9A0E18012F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2E3912-6FA9-48F3-B81A-7D9A0E18012F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2E3912-6FA9-48F3-B81A-7D9A0E18012F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BC2B7E-3C58-4652-9952-7F11E0E59CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BC2B7E-3C58-4652-9952-7F11E0E59CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BC2B7E-3C58-4652-9952-7F11E0E59CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BC2B7E-3C58-4652-9952-7F11E0E59CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
